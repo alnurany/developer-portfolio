@@ -10,6 +10,7 @@ h1{
 }
 section{
     display:flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -33,5 +34,13 @@ background: url(download.png);
     border-radius: 50px;
    background-repeat: no-repeat;
    background-attachment:inherit;
-   padding: 5px; 10px;
+   padding: 5px; 30px
+}
+.dream-big{
+    background-image: url(vector-red-circle-button-on-260nw-191214065.webp);
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size: 300px;
+    -moz-background-inline-policy: each-box;
+    border-radius: 100px;
 }
